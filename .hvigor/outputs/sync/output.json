@@ -1,0 +1,324 @@
+{
+  "version": 1,
+  "ohos-module-phone": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "C:\\MultiShoppingPriceComparison\\products\\phone\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "C:\\MultiShoppingPriceComparison\\products\\phone\\src\\main",
+        "RESOURCES_PATH": [
+          "C:\\MultiShoppingPriceComparison\\products\\phone\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\cache\\default\\default@CompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\cache\\default\\default@CompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\MultiShoppingPriceComparison\\products\\phone\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "targets": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-module-base": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "C:\\MultiShoppingPriceComparison\\commons\\base\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "C:\\MultiShoppingPriceComparison\\commons\\base\\src\\main",
+        "RESOURCES_PATH": [
+          "C:\\MultiShoppingPriceComparison\\commons\\base\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\cache\\default\\default@HarCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\cache\\default\\default@HarCompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\MultiShoppingPriceComparison\\commons\\base\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "targets": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-module-home": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "C:\\MultiShoppingPriceComparison\\features\\home\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "C:\\MultiShoppingPriceComparison\\features\\home\\src\\main",
+        "RESOURCES_PATH": [
+          "C:\\MultiShoppingPriceComparison\\features\\home\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\cache\\default\\default@HarCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\cache\\default\\default@HarCompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\MultiShoppingPriceComparison\\features\\home\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "targets": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-module-detail": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "C:\\MultiShoppingPriceComparison\\features\\detail\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "C:\\MultiShoppingPriceComparison\\features\\detail\\src\\main",
+        "RESOURCES_PATH": [
+          "C:\\MultiShoppingPriceComparison\\features\\detail\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\cache\\default\\default@HarCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\cache\\default\\default@HarCompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\MultiShoppingPriceComparison\\features\\detail\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "targets": [
+        {
+          "name": "default"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-project": {
+    "SELECT_PRODUCT_NAME": "default",
+    "MODULE_BUILD_DIR": "C:\\MultiShoppingPriceComparison\\build",
+    "BUNDLE_NAME": "com.huawei.multishoppingpricecomparison",
+    "VERSION_CODE": 1000000,
+    "VERSION_NAME": "1.0.0",
+    "BUILD_PATH": {
+      "OUTPUT_PATH": "C:\\MultiShoppingPriceComparison\\build\\outputs\\default"
+    },
+    "MODULES": [
+      {
+        "name": "phone",
+        "srcPath": "C:\\MultiShoppingPriceComparison\\products\\phone",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "C:\\MultiShoppingPriceComparison"
+      },
+      {
+        "name": "base",
+        "srcPath": "C:\\MultiShoppingPriceComparison\\commons\\base",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "C:\\MultiShoppingPriceComparison"
+      },
+      {
+        "name": "home",
+        "srcPath": "C:\\MultiShoppingPriceComparison\\features\\home",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "C:\\MultiShoppingPriceComparison"
+      },
+      {
+        "name": "detail",
+        "srcPath": "C:\\MultiShoppingPriceComparison\\features\\detail",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "C:\\MultiShoppingPriceComparison"
+      }
+    ],
+    "PROFILE_OPT": {
+      "app": {
+        "signingConfigs": [],
+        "products": [
+          {
+            "name": "default",
+            "signingConfig": "default",
+            "compatibleSdkVersion": "5.0.5(17)",
+            "targetSdkVersion": "6.0.2(22)",
+            "runtimeOS": "HarmonyOS"
+          }
+        ],
+        "buildModeSet": [
+          {
+            "name": "debug"
+          },
+          {
+            "name": "release"
+          }
+        ]
+      },
+      "modules": [
+        {
+          "name": "phone",
+          "srcPath": "./products/phone",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "base",
+          "srcPath": "./commons/base",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "home",
+          "srcPath": "./features/home",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "detail",
+          "srcPath": "./features/detail",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CONFIG_PROPERTIES": {
+      "enableSignTask": true,
+      "skipNativeIncremental": false,
+      "hvigor.keepDependency": true
+    },
+    "OVERALL_PROJECT_PATHS": [
+      "C:\\MultiShoppingPriceComparison"
+    ],
+    "BUILD_CACHE_DIR": ""
+  }
+}
