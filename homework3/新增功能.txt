@@ -1,0 +1,6 @@
+新增功能：
+1.首页(HomeContent)：点击「比价卡」
+2.搜索栏(HomeHeader)：点击搜索栏
+3.发现Tab(PriceComparison) ： 商品选择器  各平台价格对比 价格趋势图
+4.搜索页(SearchContent)：热门搜索词 搜索历史 搜索结果
+5.我的Tab(ProfileContent)用户信息 订单统计 功能菜单
