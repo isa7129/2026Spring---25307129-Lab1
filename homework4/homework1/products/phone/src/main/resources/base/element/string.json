@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "isa购物"
+    },
+    {
+      "name": "SecondAbility_desc",
+      "value": "Split Screen - Offering Details"
+    },
+    {
+      "name": "SecondAbility_label",
+      "value": "Split Screen - Offering Details"
+    },
+    {
+      "name": "permission_read_media_reason",
+      "value": "用于分享产品图片"
+    }
+  ]
+}
